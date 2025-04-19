@@ -4,18 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - FxTemporaire
-  - Coin
-  - Virus
+  - PlatformStop
+  - Robot
+  - Pillar
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
-  - Ground
-  - InspectableItem
+  - 
+  - 
   - 
   - 
   - 
